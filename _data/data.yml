@@ -25,17 +25,18 @@ sidebar:
     github: hz81
     github-link: https://github.com/hz81
     website: Herry's CV
-    website-link: https://ba2.hzy10.com
+    website-link: https://ba3.hzy10.com
     download-pdf: https://drive.google.com/file/d/13nT46bDY7eSgAibsadON80tWj8yIcfTI/view?usp=sharing
 
     characters:
       title: Characters
       info:
         - item: Self-determined and motivated achiever
-        - item: High initiative and proactive
+        - item: High initiative and proactive; Positive can-do attitude
         - item: Love to contribute; Excellent team player
         - item: Passionate to learn new things; Easy to adapt person
         - item: Keen to find solutions; Problem-solving oriented
+        - item: Well organized person
         - item: Friendly and attentive listener
 
     languages:
@@ -109,7 +110,7 @@ skills-attributes:
     title: Skills Attributes
     skill:
       - title: Analysis skill
-        desc: "Solid understanding of translating business requirements into applicable solutions; Proficient in constructing business process modelling using BPMN tools; Great at constructing API documentation and data modelling"
+        desc: "Solid understanding of translating business requirements into applicable solutions; Proficient in constructing business process modelling using BPMN tools; Great at constructing API documentation and data modelling; Possess good critical thinking to analyse cases"
 
       - title: Problem-solving skill
         desc: "A broad range of experience in applying best practise approaches to come up with creative workaround solutions; Demonstrated success in maintaining legacy systems during upgrades"
@@ -124,7 +125,7 @@ skills-attributes:
         desc: "Proven ability to build stakeholder and user engagement; Oversee the implementation of product changes and communicate the impact to stakeholders, users, customers, and teams"
 
       - title: Communication skill
-        desc: Good written and verbal communication skills
+        desc: Good written, verbal, and visual communication skills
 
 skills-tech:
     title: Technical Skills
